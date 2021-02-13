@@ -2,11 +2,11 @@
 
 :root {
     --dark-blue: #363f5f;
-    --color-total: #2CED0C;
-    --color-income: #2CED0C;
+    --color-total: #0175FA;
+    --color-income: #0CED48;
     --color-expense: #e92929;
     --color-background: #f0f2f5;
-    --color-background-header: #01E067;
+    --color-background-header: #0C3DED;
 }
 
 * {
