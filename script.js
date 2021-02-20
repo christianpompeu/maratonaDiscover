@@ -109,7 +109,7 @@ const Utils = {
     },
     formatAmount(amount) {
         amount = Number(amount) * 100
-        return amount
+        return Math.round(amount)
     },
 }
 
